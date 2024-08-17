@@ -1,6 +1,7 @@
 # Async Task Worker with FastAPI and Celery
 
-![Async Task Worker](https://github.com/user-attachments/assets/1168554b-f9b2-4ba6-8eda-2219ffc75ed3)
+![Async Task Worker](https://github.com/user-attachments/assets/a3e25004-a425-4d23-bf2e-18fd3a3fba4f)
+
 
 This project sets up a simple asynchronous task worker using FastAPI, Celery, and Redis. It processes webhooks from any e-commerce store using a background task.
 
